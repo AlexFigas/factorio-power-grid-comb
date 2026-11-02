@@ -6,7 +6,7 @@ local item = {
 
   icons = {
     {
-      icon = "__power-grid-comb__/graphics/icons/power-grid-comb.png",
+      icon = "__power-grid-comb-21__/graphics/icons/power-grid-comb.png",
       icon_size = 32,
     }
   },
@@ -37,9 +37,9 @@ local shortcut = {
   item_to_spawn = "power-grid-comb",
   order = "m[power-grid-comb]",
   icon_size = 32,
-  icon = "__power-grid-comb__/graphics/icons/power-grid-comb-x32.png",
+  icon = "__power-grid-comb-21__/graphics/icons/power-grid-comb-x32.png",
   small_icon_size = 24,
-  small_icon = "__power-grid-comb__/graphics/icons/power-grid-comb-x24.png",
+  small_icon = "__power-grid-comb-21__/graphics/icons/power-grid-comb-x24.png",
 }
 
 data:extend { item, shortcut }
